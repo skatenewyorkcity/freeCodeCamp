@@ -1,2 +1,2 @@
 # freeCodeCamp
-freeCodeCamp exercises.
+Worked out exercises from freeCodeCamp
