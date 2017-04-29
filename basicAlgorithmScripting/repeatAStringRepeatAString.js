@@ -19,7 +19,7 @@ function repeatStringNumTimes(str, num) {
     return string;
   }else{
   
-    //else return nothing
+    //return empty string
     return "";
   }
   
