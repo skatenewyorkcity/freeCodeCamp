@@ -23,7 +23,6 @@ function repeatStringNumTimes(str, num) {
     return "";
   }
   
-
 }
 
 repeatStringNumTimes("abc", 3);
