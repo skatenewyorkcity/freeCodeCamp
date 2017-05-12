@@ -9,6 +9,7 @@ function chunkArrayInGroups(arr, size) {
   }
   
   return arrVal;
+  
 }
 
 
