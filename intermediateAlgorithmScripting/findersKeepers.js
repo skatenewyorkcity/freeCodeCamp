@@ -1,5 +1,13 @@
 function findElement(arr, func) {
-  var num = 0;
+  var num;
+  
+  for (var a = 0; a < arr.length; a++){
+    if (func(arr[a])){
+      num = arr[a];
+      return num;
+    }
+  }
+  
   return num;
 }
 
