@@ -9,7 +9,7 @@
 
 var getTrickCounter = -1;
 var retryTrickCounter = 0;
-var tricks = ["ollie", "nollie", "switchOllie", "fakieOllie"];
+var tricks = ["ollie", "nollie", "switchOllie", "fakieOlliee"];
 var retryStat = [];
 
 
