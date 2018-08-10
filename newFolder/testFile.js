@@ -80,3 +80,4 @@ trickAmmount: <a id="trickAmmount">0</a>
 
 </body>
 </html> 
+
